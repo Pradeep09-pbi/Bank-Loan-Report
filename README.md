@@ -1,6 +1,4 @@
 # Bank-Loan-Report
-# Bank Loan KPI Dashboard – Power BI
-
 ## 📊 Project Overview
 This project is an **interactive Power BI dashboard** developed to analyze **loan application trends, funded amounts, repayments, interest rates, and DTI (Debt-to-Income) ratios**.  
 The dashboard provides actionable insights to improve **loan portfolio performance** and **credit risk management**.
